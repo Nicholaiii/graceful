@@ -1,13 +1,7 @@
-# [**@ladjs/graceful**](https://github.com/ladjs/graceful)
-
-[![build status](https://img.shields.io/travis/ladjs/graceful.svg)](https://travis-ci.org/ladjs/graceful)
-[![code coverage](https://img.shields.io/codecov/c/github/ladjs/graceful.svg)](https://codecov.io/gh/ladjs/graceful)
-[![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/ladjs/graceful.svg)]()
+# [**@ocalan/graceful**](https://github.com/ocalan/graceful)
 
 > Gracefully exit server (Koa), database (Mongo/Mongoose), Redis clients, Bree job schedulers, Bull job schedulers, and custom handlers.
+> Forked to add TypeScript definitions.
 
 
 ## Table of Contents
@@ -23,13 +17,13 @@
 [npm][]:
 
 ```sh
-npm install @ladjs/graceful
+npm install @ocalan/graceful
 ```
 
 [yarn][]:
 
 ```sh
-yarn add @ladjs/graceful
+yarn add @ocalan/graceful
 ```
 
 

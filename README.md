@@ -1,7 +1,8 @@
 # [**@ocalan/graceful**](https://github.com/ocalan/graceful)
 
 > Gracefully exit server (Koa), database (Mongo/Mongoose), Redis clients, Bree job schedulers, Bull job schedulers, and custom handlers.
-> Forked to add TypeScript definitions.
+
+> Forked from [@ladjs/graceful](https://github.com/ladjs/graceful) to add TypeScript definitions.
 
 
 ## Table of Contents

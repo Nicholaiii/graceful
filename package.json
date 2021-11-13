@@ -2,10 +2,10 @@
   "name": "@ocalan/graceful",
   "description": "Gracefully exit server (Koa), database (Mongo/Mongoose), Bree job schedulers, Bull job schedulers, and custom handlers.",
   "version": "1.1.0",
-  "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
+  "author": "Nicholai Nissen <nicholainissen@gmail.com> (https://nicholai.dev)",
   "bugs": {
     "url": "https://github.com/Nicholaiii/graceful/issues",
-    "email": "niftylettuce@gmail.com"
+    "email": "nicholainissen@gmail.com"
   },
   "commitlint": {
     "extends": [

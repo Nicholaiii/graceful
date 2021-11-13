@@ -63,7 +63,7 @@ You can also read more about Bree at <https://github.com/breejs/bree>.
 
 ## License
 
-[MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
+[MIT](LICENSE) © [Nicholai Nissen](https://nicholai.dev)
 
 
 ##
